@@ -4,5 +4,7 @@ public class Test {
         System.out.println("Hi, ini baris kode pertama");
 
         System.out.println("Baris kode ini ditulis oleh Vesakha");
+
+        System.out.println("Baris kode ini ditulis sama anak gantenk namanya Farrelyan Hilmy Araya");
     }
 }
